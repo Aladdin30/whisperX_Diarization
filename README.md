@@ -16,4 +16,23 @@ Voice Activity Detection (VAD) is the detection of the presence or absence of hu
 
 Speaker Diarization is the process of partitioning an audio stream containing human speech into homogeneous segments according to the identity of each speaker.
 
+- This is a Part of output:
+  
+Speaker: SPEAKER_02
+
+Text:  What do you know about logic?
+
+Speaker: SPEAKER_02
+
+Text: Yeah.
+
+Speaker: SPEAKER_02
+
+Text: Come on.
+
+Speaker: SPEAKER_02
+
+Text: Go ahead.
+
+
 the origonal repo :https://github.com/m-bain/whisperX
