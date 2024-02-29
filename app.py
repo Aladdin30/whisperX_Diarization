@@ -6,7 +6,7 @@ device = "cuda"
 batch_size = 4 # reduce if low on GPU mem
 compute_type = "float16"
 
-audio_file = "/content/test_Di4.wav"
+audio_file = "Enter your input audio here"
 
 model = whisperx.load_model("large-v3", device, compute_type=compute_type)
 def WisperX(audio_file):
