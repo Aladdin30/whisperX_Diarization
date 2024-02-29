@@ -1,0 +1,3 @@
+#pip install --q git+https://github.com/m-bain/whisperx.git
+git+https://github.com/m-bain/whisperx.git
+torch
